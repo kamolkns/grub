@@ -1,0 +1,1 @@
+root=PARTUUID=4277f3d6-71ae-4830-819b-eaa67f70793f zswap.enabled=0 ro rootfstype=ext4 quiet loglevel=3 systemd.show_status=false rd.systemd.show_status=false

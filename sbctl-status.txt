@@ -1,0 +1,5 @@
+Installed:	✓ sbctl is installed
+Owner GUID:	8d9cd7df-d68e-4ab5-9791-276823cb6aa3
+Setup Mode:	✓ Disabled
+Secure Boot:	✓ Enabled
+Vendor Keys:	microsoft

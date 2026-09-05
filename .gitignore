@@ -1,0 +1,21 @@
+# Secure Boot private keys / secrets
+*.key
+*.priv
+*.pem
+*.p12
+*.pfx
+
+# EFI recovery binaries stay in the local backup
+*.efi
+
+# Local archives
+*.tar
+*.tar.gz
+*.zip
+
+# Temporary files
+*.tmp
+*.swp
+
+# GRUB EFI recovery copies
+grubx64.efi.*

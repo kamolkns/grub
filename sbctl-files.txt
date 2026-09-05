@@ -1,0 +1,15 @@
+/boot/EFI/GRUB/grubx64.efi
+Signed:		✓ Signed
+
+/boot/EFI/Linux/arch-linux-zen.efi
+Signed:		✓ Signed
+
+/boot/grub/x86_64-efi/core.efi
+Signed:		✓ Signed
+
+/boot/grub/x86_64-efi/grub.efi
+Signed:		✓ Signed
+
+/boot/vmlinuz-linux-zen
+Signed:		✓ Signed
+
